@@ -1,0 +1,33 @@
+body {
+    font-family: 'Tilt Prism', cursive;
+    background: purple;
+    text-shadow: 2px 2px black;
+    color: white;
+    text-align: center;
+    font-weight: bold
+}
+
+p{
+    font-size: 20px;
+}
+h1 {
+    color: goldenrod;
+    font-size: 40px;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    display: block;
+    margin: 6px auto;
+    color: #016f32;
+    width: 200px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+}

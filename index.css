@@ -8,11 +8,11 @@ body {
 }
 
 p{
-    font-size: 20px;
+    font-size: 80px;
 }
 h1 {
     color: goldenrod;
-    font-size: 40px;
+    font-size: 100px;
 }
 
 #message-el {
@@ -23,7 +23,7 @@ button {
     display: block;
     margin: 6px auto;
     color: #016f32;
-    width: 200px;
+    width: 400px;
     background: goldenrod;
     padding-top: 5px;
     padding-bottom: 5px;

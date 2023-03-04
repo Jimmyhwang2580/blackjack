@@ -21,9 +21,11 @@ h1 {
 
 button {
     display: block;
-    margin: 6px auto;
+    margin: 15px auto;
     color: #016f32;
     width: 400px;
+    height: 200px;
+    font-size: 50px;
     background: goldenrod;
     padding-top: 5px;
     padding-bottom: 5px;
